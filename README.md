@@ -29,7 +29,7 @@ project/
 ## How to Run the Application
 1. Clone the repository to your local machine.
    ```sh
-   git clone <repository-url>
+   git clone <https://github.com/lobsterhandz/Mini-Project--Task-Management-Application-Project.git>
    ```
 2. Navigate to the project folder.
    ```sh
