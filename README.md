@@ -13,8 +13,6 @@ The Task Management Application is a user-friendly tool that allows users to eff
 ## Project Structure
 ```
 project/
-├── css/
-│   └── custom.css       # Custom styles
 ├── img/
 │   ├── featured1.jpg    # Images for carousel
 │   ├── featured2.jpg
@@ -63,13 +61,12 @@ project/
    - Form validation for ensuring input correctness.
 
 ## Customization
-- **CSS Customization**: You can modify `css/custom.css` to add or override styles according to your needs.
 - **Images**: Replace the images in the `img` directory to customize the carousel with your own images.
 - **Content**: Update the text content in the HTML files to fit your specific use case.
 
 ## Future Enhancements
-- **Backend Integration**: Add a server-side component (e.g., Node.js, Django) to persist user data and tasks.
-- **Database Support**: Integrate with a database like MySQL to store tasks, users, and more.
+- **Backend Integration**: Add a server-side component (e.g., Node.js, Sveltkit) to persist user data and tasks.
+- **Database Support**: Integrate with a database like MySQL or SQL Lite to store tasks, users, and more.
 - **Authentication**: Secure login and register functionality with proper backend handling.
 
 ## Contributing
@@ -80,6 +77,6 @@ This project is open-source and available under the [MIT License](LICENSE).
 
 ## Contact
 For any questions or support, feel free to reach out:
-- **Email**: support@example.com
-- **GitHub**: [YourGitHubProfile](https://github.com/YourGitHubProfile)
+- **Email**: Josemurillo82@gmail.com
+- **GitHub**: [Lobsterhandz](https://github.com/Lobsterhandz)
 
